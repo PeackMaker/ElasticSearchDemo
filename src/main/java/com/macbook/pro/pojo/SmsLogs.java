@@ -7,9 +7,14 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 
 
+/**
+ * 短信实体
+ */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+
 public class SmsLogs {
 
     private String id; // 唯一ID 1

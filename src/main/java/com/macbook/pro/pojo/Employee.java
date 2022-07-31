@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import java.time.LocalDate;
 
 /**
- * @Desc:
+ * @Desc: 员工实体
  * @Author: PEACEMAKER
  * @Date: 2022/6/21
  */
